@@ -1,0 +1,111 @@
+{
+  "pokemons": [
+    {
+      "id": 4,
+      "name": "Aspicoter",
+      "hp": 16,
+      "cp": 2,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png",
+      "types": [
+        "Insecte",
+        "Poison"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Roucool",
+      "hp": 30,
+      "cp": 7,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png",
+      "types": [
+        "Normal",
+        "Vol"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Rattata",
+      "hp": 18,
+      "cp": 6,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png",
+      "types": [
+        "Normal"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Piafabec",
+      "hp": 14,
+      "cp": 5,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png",
+      "types": [
+        "Normal",
+        "Vol"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Abo",
+      "hp": 16,
+      "cp": 4,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png",
+      "types": [
+        "Poison"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pikachu",
+      "hp": 21,
+      "cp": 7,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png",
+      "types": [
+        "Electrik"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Sabelette",
+      "hp": 19,
+      "cp": 3,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png",
+      "types": [
+        "Normal"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Mélofée",
+      "hp": 25,
+      "cp": 5,
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png",
+      "types": [
+        "Fée"
+      ]
+    },
+    {
+      "id": 1683634350076,
+      "hp": 100,
+      "cp": 10,
+      "name": "nouveau pokemoner",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png",
+      "types": [
+        "Normal"
+      ],
+      "created": "2023-05-09T12:12:42.521Z"
+    },
+    {
+      "id": 1683634977344,
+      "hp": 100,
+      "cp": 10,
+      "name": "nouve",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/085.png",
+      "types": [
+        "Normal",
+        "Eau",
+        "Feu"
+      ],
+      "created": "2023-05-09T12:23:24.159Z"
+    }
+  ]
+}
